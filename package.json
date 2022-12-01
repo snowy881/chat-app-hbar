@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tyler Snow",
   "license": "ISC",
   "dependencies": {
     "@hashgraph/sdk": "^2.0.30",
@@ -14,11 +14,11 @@
     "express": "^4.17.1",
     "inquirer": "^7.0.4",
     "open": "^7.0.0",
-    "socket.io": "^2.5.0",
+    "socket.io": "^2.4.0",
     "text-encoding": "^0.7.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Cooper-Kunz/hello-hedera-chat-js.git"
+    "url": "git://github.com/snowy881/chat-app-hbar.git"
   }
 }
